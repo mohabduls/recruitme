@@ -1,0 +1,15 @@
+body{
+	font-family: sans-serif;
+}
+.bg-custom{
+	background-color: #FFFFFF;
+}
+.bg-header-login{
+	background-color: #FFA641;
+}
+
+@media only screen and (max-width: 768px){
+	.display-4{
+		font-size: 2rem;
+	}
+}
